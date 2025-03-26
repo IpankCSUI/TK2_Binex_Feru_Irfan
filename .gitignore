@@ -1,0 +1,6 @@
+flag.txt
+*.o
+*.bin
+*.out
+*.exe
+__pycache__/
